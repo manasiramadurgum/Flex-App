@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-flex-dev-183855-authRole",
+            "UnauthRoleArn": "arn:aws:iam::056761444036:role/amplify-flex-dev-183855-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::056761444036:role/amplify-flex-dev-183855-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-flex-dev-183855-deployment",
+            "UnauthRoleName": "amplify-flex-dev-183855-unauthRole",
+            "StackName": "amplify-flex-dev-183855",
+            "StackId": "arn:aws:cloudformation:us-east-1:056761444036:stack/amplify-flex-dev-183855/0b844100-b286-11ea-8989-1277bf9feb05",
+            "AmplifyAppId": "d1cz4o8s5150wz"
+        },
+        "categories": {
+            "auth": {
+                "flexd83ba31f": {}
+            }
+        }
+    }
+}
